@@ -33,14 +33,12 @@ This repository contains a collection of Jupyter notebooks designed to perform c
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository_name.git
-   cd repository_name
+   git clone https://github.com/adanog/Vip3Aa.git
+   cd Vip3Aa
    ```
 2. Install the necessary dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   *(Alternatively, install libraries directly in each notebook as needed.)*
+  
+    Install libraries directly in each notebook as needed.
 
 3. Use a GPU-enabled environment (e.g., Google Colab) for the cell segmentation notebook to ensure efficient processing.
 
@@ -65,4 +63,4 @@ This project is licensed under the BSD-3-Clause license License.
 
 ## Author
 
-Developed by Adan Guerrero (adan.guerrero@ibt.unam.mx) as part of an image-based flow cytometry project using Sf9 cells exposed to insecticidal proteins.
+Developed by Adan Guerrero (adan.guerrero@ibt.unam.mx) as part of the manuscript "Insights into the structural changes that trigger receptor binding upon proteolytic activation of Bacillus thuringiensis Vip3Aa insecticidal protein", Infante O. et al. 2024, in press.
