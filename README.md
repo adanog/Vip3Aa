@@ -3,6 +3,9 @@
 
 This repository contains a collection of Jupyter notebooks designed to perform cell segmentation, dose-response analysis, and data visualization for Sf9 cells exposed to **Bacillus thuringiensis** insecticidal protein. The workflow leverages the **Cellpose3** segmentation model to process bright field microscopy images, and subsequent scripts for data analysis and visualization.
 
+Source data for analysis
+DOI: 10.5281/zenodo.13926909
+
 ## Notebooks Overview
 
 ### 1. **240516-cyto3_edited.ipynb**: Cell Segmentation Using Cellpose3
